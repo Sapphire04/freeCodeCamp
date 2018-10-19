@@ -32,6 +32,7 @@ One technique you may use is to estimate the time it will take to complete user 
 As the requirements of the project change over time, you can update the estimate. If a project loses some resources originally allocated to it, you may need to cut user stories to be able to complete them in the same amount of total time. Similarly, if you want to improve the quality of the app, you may need to allocate more time to each user story to make sure your team has time to finish the app with the desired quality.
 
 Generally, these estimates are calculated using ideal engineering hours.
+Nice write up.
 
 Examples: 
 
